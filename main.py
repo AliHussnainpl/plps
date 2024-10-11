@@ -11,8 +11,8 @@ LOGIN_API_URL = "http://plpschatbot.server1.purelogics.net/api/login/"
 CHAT_API_URL = "http://plpschatbot.server1.purelogics.net/api/chat/"
 
 # User credentials for login
-USERNAME = "ali"  # Replace with actual username
-PASSWORD = "ali"  # Replace with actual password
+USERNAME = "AliDev"  # Replace with actual username
+PASSWORD = "n0passw0rd"  # Replace with actual password
 
 
 def get_jwt_token():
